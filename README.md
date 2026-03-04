@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Database](https://img.shields.io/badge/Database-SQLite-green)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+
+
 # Online Voting System (Python)
 
 A simple Online Voting System developed using Python.
