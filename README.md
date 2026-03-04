@@ -7,21 +7,18 @@ This project is a simple Online Voting System developed using Python.
 - Login Authentication
 - Secure Voting
 - Result Display
-- Graph Visualization of Results
-- Automatic Winner Announcement
+- Graph Visualization
+- Winner Announcement
 
 ## Technologies Used
 - Python
-- SQLite Database
+- SQLite
 - Matplotlib
 
-## Project Structure
-database.py – database creation  
-register.py – voter registration  
-login.py – voter login  
-vote.py – voting system  
-result.py – show results and graph  
-main.py – main menu controller  
+## Setup
+Install required libraries:
+
+pip install -r requirements.txt
 
 ## How to Run
 1. Run database.py to create the database.
@@ -29,3 +26,4 @@ main.py – main menu controller
 
 ## Author
 Nagarajan
+
